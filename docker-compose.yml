@@ -1,0 +1,18 @@
+data:
+  image: busybox
+  volumes:
+    - /var/lib/postgresql/data
+  command: /bin/true
+
+postgres:
+  build: 9.4-2.1-2.0/.
+  #image: turistforeningen/pgrouting
+  volumes_from:
+    - data
+
+psql:
+  build: 9.4-2.1-2.0/.
+  links:
+    - postgres
+  command: psql -U postgres -h postgres
+
