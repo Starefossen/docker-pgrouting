@@ -5,3 +5,5 @@ PostGIS 2.1 and pgRouting 2.0 installed. This image is based on
 [docker-library/postgres](https://github.com/docker-library/postgres) image
 [md5/postgis](https://github.com/md5/docker-postgis) images.
 
+![docker-badge](http://dockeri.co/image/starefossen/pgrouting)
+
