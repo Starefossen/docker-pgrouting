@@ -2,7 +2,7 @@ FROM mdillon/postgis:9.4
 MAINTAINER Hans Kristian Flaatten <hans.kristian.flaatten@turistforeningen.no>
 
 ENV PGROUTING_MAJOR 2.0
-ENV PGROUTING_VERSION 2.0.0-3.pgdg70+1
+ENV PGROUTING_VERSION 2.0.0-3
 
 RUN apt-get update && \
     apt-get install  -y --no-install-recommends \
@@ -10,4 +10,3 @@ RUN apt-get update && \
 
 RUN mkdir -p /docker-entrypoint-initdb.d
 COPY ./initdb-pgrouting.sh /docker-entrypoint-initdb.d/routing.sh
-
