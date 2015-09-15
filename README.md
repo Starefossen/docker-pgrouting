@@ -50,12 +50,12 @@ specific use case.
 
 `starefossen/pgrouting:latest`
 
-This is the bleading edge latest version of the image. You should use this under
+This is the bleeding edge latest version of the image. You should use this under
 active development, but not for stable production usage.
 
 `starefossen/pgrouting:<version>`
 
-This is the locked down version of the image. If comes in thow variants, major
+This is the locked down version of the image. If comes in two variants, major
 versions major+minor for Postgres, PostGIS, and pgRouting as the version tag.
 
 ## License
