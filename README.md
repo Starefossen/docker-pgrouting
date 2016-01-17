@@ -65,7 +65,7 @@ This Docker image is licensed under the [MIT License](https://github.com/Starefo
 
 Software contained in this image is licensed under the following:
 
-* PostGIS: [PostgreSQL License](http://www.postgresql.org/about/licence/)
+* PostgreSQL: [PostgreSQL License](http://www.postgresql.org/about/licence/)
 * PostGIS: [GNU GPL v2](https://github.com/postgis/postgis/blob/svn-trunk/COPYING)
 * pgRouting: [GNU GPL v2](https://github.com/pgRouting/pgrouting/blob/master/COPYING)
 
