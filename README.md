@@ -5,6 +5,8 @@ The `starefossen/pgrouting` Image provides a Docker Image with `Postgres`,
 [postgres](https://github.com/docker-library/postgres) and
 [mdillon/postgis](https://github.com/md5/docker-postgis) Docker Images.
 
+![Demo using pgRouting on Docker](/demo.gif)
+
 ## Supported tags and respective `Dockerfile` links
 
 The following Docker Image tags are supported.
