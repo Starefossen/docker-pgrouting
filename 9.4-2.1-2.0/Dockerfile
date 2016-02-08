@@ -1,5 +1,5 @@
 FROM mdillon/postgis:9.4
-MAINTAINER Hans Kristian Flaatten <hans.kristian.flaatten@turistforeningen.no>
+MAINTAINER Hans Kristian Flaatten <hans@starefossen.com>
 
 ENV PGROUTING_MAJOR 2.0
 ENV PGROUTING_VERSION 2.0.0-3
