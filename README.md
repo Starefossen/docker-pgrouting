@@ -13,11 +13,12 @@ The following Docker Image tags are supported.
 
 | Tag           | Postgres | PostGIS | pgRouting |
 |---------------|----------|---------|-----------|
-| [`latest` (Dockerfile)](https://github.com/Starefossen/docker-pgrouting/blob/master/9.6-2.3-2.3/Dockerfile)      | latest   | latest  | latest    |
+| [`latest` (Dockerfile)](https://github.com/Starefossen/docker-pgrouting/blob/master/10.1-2.4-2.5/Dockerfile)      | latest   | latest  | latest    |
 | [`9-2-2` (Dockerfile)](https://github.com/Starefossen/docker-pgrouting/blob/master/9.6-2.3-2.3/Dockerfile)       | 9.6      | 2.x     | 2.x       |
 | [`9.4-2.1-2.1` (Dockerfile)](https://github.com/Starefossen/docker-pgrouting/blob/master/9.4-2.1-2.1/Dockerfile) | 9.4.x    | 2.1.x   | 2.1.x     |
 | [`9.4-2.1-2.0` (Dockerfile)](https://github.com/Starefossen/docker-pgrouting/blob/master/9.4-2.1-2.0/Dockerfile) | 9.4.x    | 2.1.x   | 2.0.x     |
 | [`9.6-2.3-2.3` (Dockerfile)](https://github.com/Starefossen/docker-pgrouting/blob/master/9.6-2.3-2.3/Dockerfile) | 9.6.x    | 2.3.x   | 2.3.x     |
+| [`10.1-2.4-2.5` (Dockerfile)](https://github.com/Starefossen/docker-pgrouting/blob/master/10.1-2.4-2.5/Dockerfile) | 10.1.x    | 2.4.x   | 2.5.x     |
 
 ## What is pgRouting
 
