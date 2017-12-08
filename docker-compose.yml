@@ -3,3 +3,6 @@ pgrouting-9.4-2.1-2.0:
 
 pgrouting-9.6-2.3-2.3:
   build: 9.6-2.3-2.3/.
+
+pgrouting-10.1-2.4-2.5:
+  build: 10.1-2.4-2.5/.
